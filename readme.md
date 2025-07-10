@@ -1,6 +1,6 @@
 # ❌⭕ Tic-Tac-Toe Game
 
-A classic 2-player **Tic-Tac-Toe (X and O) game built with HTML, CSS, and JavaScript. This project showcases basic DOM manipulation, game logic, and interactive UI using vanilla JS.
+A classic 2-player **Tic-Tac-Toe (X and O)** game built with HTML, CSS, and JavaScript. This project showcases basic DOM manipulation, game logic, and interactive UI using vanilla JS.
 
 ---
 
